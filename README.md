@@ -4,8 +4,8 @@ styles.xml https://github.com/euv921/android101-now/blob/master/app/src/main/res
 
 activity_main.xml https://github.com/euv921/android101-now/blob/master/app/src/main/res/layout/activity_main.xml
 
-MainActivity.java https://github.com/euv921/android101-now/blob/master/app/src/main/java/com/pinterest/hello/helloworld/MainActivity.java
+MainActivity.java https://github.com/euv921/android101-now/blob/master/app/src/main/java/com/pinterest/hello/MyApplication/MainActivity.java
 
 activity_game_over.xml https://github.com/euv921/android101-now/blob/master/app/src/main/res/layout/activity_game_over.xml
 
-GameOverActivity.java https://github.com/euv921/android101-now/blob/master/app/src/main/java/com/pinterest/hello/helloworld/GameOverActivity.java
+GameOverActivity.java https://github.com/euv921/android101-now/blob/master/app/src/main/java/com/pinterest/hello/MyApplication/GameOverActivity.java
